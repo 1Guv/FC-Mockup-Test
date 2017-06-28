@@ -2,7 +2,7 @@ body {
   font-family: arial;
 }
 
-img {
+.img-100 {
   width: 100%;
 }
 
@@ -21,4 +21,9 @@ p {
   margin-left: auto;
   min-height: 10em;
   width: 75%;
+}
+
+.img-small {
+  width: 312px;
+  height: 372px;
 }
