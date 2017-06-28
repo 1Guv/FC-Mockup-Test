@@ -2,6 +2,17 @@ body {
   font-family: arial;
 }
 
+h1 {
+  font-size: 90px;
+}
+
+.mens-essentials-hidden {
+ display: none;
+ position: absolute;
+ top: 200px;
+ left: 170px;
+}
+
 .img-100 {
   width: 100%;
 }
