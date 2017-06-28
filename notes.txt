@@ -1,0 +1,31 @@
+French Connection Code Test
+
+GitHub link: https://github.com/1Guv/FC-Mockup-Test
+External Link: http://apnaplates.com/FC/
+
+
+Tech:
+I used HTML5, CSS3, Bootstrap and JavaScript to complete this code test.
+
+Issues:
+1 - I wasted time in editing the main picture to remove the text, I have lots of experience with Photoshop but had to use an online equivalent to do the editing in this instance.
+
+2 - I had a few problems with aligning the text "Product Name Here £000" for a few of the images and had to move on instead of spending too much time on this issue. I came back to it and understood what the issue was but didn't get time to investigate with a simple solution.
+
+Assumptions:
+I looked at the current French Connection mobile site to check the current look and feel of the design and layout so I envisaged how I would make this code test mobile responsive however I didn't get time to complete this bit unfortunately.
+
+Improvements:
+I would of loved to of made this mobile responsive by using media query and some more CSS and in general I think it might need a little more tidying up in places.
+
+Time:
+I think I may have completed about 93% of the code test, I did take just over 2hrs but some of that time was taken up on editing images.
+
+Whats left to finish:
+1 - the text "SHOP ACCESSORIES" is not aligned correctly which would need to be looked into, I assumed that it should of been ok because its in a DIV that is aligning the text above.
+
+2 - The text "Product Name Here £000" is also at the top of the image instead of the bottom. I experimented with this and know that there is space between the columns which is causing the problem. If i make the images 100% which would fill the column then the text aligns correctly, however the images become too large. I need to look at Bootstrap and find out how I can resize the columns or just use native CSS to manipulate it.
+
+3 - Using Bootstrap I made it fully responsive on a medium and large screens but I ran out of time to do make it fully responsive on a mobile.
+
+4 - I just realised I have not made the images clickable which is just simply adding an a tag in HTML to the text.
