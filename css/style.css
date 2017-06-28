@@ -8,9 +8,13 @@ h1 {
 
 .mens-essentials-hidden {
  display: none;
- position: absolute;
- top: 200px;
- left: 170px;
+
+}
+
+.me {
+  position: absolute;
+  top: 200px;
+  left: 170px;
 }
 
 .img-100 {
