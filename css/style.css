@@ -2,7 +2,23 @@ body {
   font-family: arial;
 }
 
-h4 {
-  font-family: arial;
+img {
+  width: 100%;
+}
+
+h4, H2 {
   text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.lorem {
+  right: 0;
+  left: 0;
+  margin-right: auto;
+  margin-left: auto;
+  min-height: 10em;
+  width: 75%;
 }
